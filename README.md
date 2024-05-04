@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonezall
-- 👀 I’m interested in ... tech
-- 🌱 I’m currently learning ... cloud and sec
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... technology
+- 🌱 I’m currently learning ... cyber security
+- ⚡ Fun fact: ...enjoying learning about all aspects of cyber security
 
 <!---
 bonezall/bonezall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
